@@ -1,6 +1,6 @@
 # This is a netflix clone App using React and Firebase
 
-This project pputs in use both basic and advanced concepts of React to use and integrates it with Google Firebase.
+This project puts in use both basic and advanced concepts of React to use and integrates it with Google Firebase.
 
 # Getting Started with Create React App
 
